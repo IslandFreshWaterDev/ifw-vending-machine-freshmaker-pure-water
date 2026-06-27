@@ -1,0 +1,23 @@
+|-- .gitignore
+|-- app_station.py
+|-- config.py
+|-- data
+    |-- settings_volume.txt
+|-- driver_display_base.py
+|-- driver_tft_40_320x480.py
+|-- footer.py
+|-- header.py
+|-- LICENSE
+|-- main.py
+|-- page_admin_menu.py
+|-- page_dispensing.py
+|-- page_welcome.py
+|-- README.md
+|-- service_bill_acceptor.py
+|-- service_coin_slot.py
+|-- service_flow_meter.py
+|-- service_inhibit_controller.py
+|-- service_rotary_encoder.py
+|-- settings_data_volume.py
+|-- ui_colors.py
+|-- ui_font.py
